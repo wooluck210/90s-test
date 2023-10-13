@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>90's fighting!</p>
+        <p>90's fighting!_hyeonjin, junha</p>
       </header>
     </div>
   );
